@@ -13,7 +13,7 @@
 <br/>
 
 ## About the project
-
+This project had the central objective of developing a machine-learning algorithm capable of classifying the health of a fetus based on cardiotocography (CTG) examination results. The Pandas Profiling and PyCaret libraries were used to assist in building models, with the aim of obtaining the best and most efficient response possible. Out of the 15 models generated using different classification algorithms, which were evaluated based on accuracy, the best model was created using Extreme Gradient Boosting (XGBoost).
 
 * **[Code File]()**
 * **[Article]()**
