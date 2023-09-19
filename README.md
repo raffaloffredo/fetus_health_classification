@@ -1,9 +1,5 @@
 # Fetus's Health Classification Algorithm 
 
-<p align="center">
-⚠️⚠️⚠️ UNDER CONSTRUCTION ⚠️⚠️⚠️
-</p>
-
 <img align="center" alt="PT-BR" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png"> _Clique [aqui](https://github.com/raffaloffredo/fetus_health_classification_portuguese) para Português-BR_   
 <br/>
 
@@ -16,7 +12,7 @@
 This project had the central objective of developing a machine-learning algorithm capable of classifying the health of a fetus based on cardiotocography (CTG) examination results. The Pandas Profiling and PyCaret libraries were used to assist in building models, with the aim of obtaining the best and most efficient response possible. Out of the 15 models generated using different classification algorithms, which were evaluated based on accuracy, the best model was created using Extreme Gradient Boosting (XGBoost).
 
 * **[Code File]()**
-* **[Article]()**
+* **[Article](https://medium.com/@loffredo.ds/classification-algorithm-model-to-determine-a-fetuss-health-fb4660dd5328)**
 
 <br/>
 
